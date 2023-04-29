@@ -1,3 +1,4 @@
+// TODO add some solved problems to better clarify the concepts
 import java.lang.StringBuilder;
 import java.util.ArrayList;
 public class StringExample {
